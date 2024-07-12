@@ -36,7 +36,7 @@ function App() {
 
 <div className="content">
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15276438/file/still-cf8cdb8dbf34d665ea93a0bb1d8e7684.png?resize=320x240&vertical=center" />
+    <img src="img1.png"/>
     <div className="card-content">
       <h2 className="card-title">Famous</h2>
       <div className="card-stats">
@@ -50,7 +50,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15413647/file/original-e657dc46a19413a48ddbadd2947a3f53.png?resize=320x240&vertical=center" />
+    <img src="img2.png"/>
     <div className="card-content">
       <h2 className="card-title">Balkan Brothers</h2>
       <div className="card-stats">
@@ -64,7 +64,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15425338/file/still-4d9a79174daebb6cfd784c49f5148417.png?resize=320x240&vertical=center"/>
+    <img src="img2.png"/>
     <div className="card-content">
       <h2 className="card-title">Jan Losert</h2>
       <div className="card-stats">
@@ -78,7 +78,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15419459/file/original-d47c2637ffd35dd35db36e7820ad3c5d.png?resize=320x240&vertical=center" alt="Card Image"/>
+    <img src="img3.png" alt="Card Image"/>
     <div className="card-content">
       <h2 className="card-title">Mattias Johansson</h2>
       <div className="card-stats">
@@ -92,7 +92,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15421431/file/original-4430075325466d9ad6e19956310c5c40.jpg?resize=320x240&vertical=center"/>
+    <img src="img4.png"/>
     <div className="card-content">
       <h2 className="card-title">Ruslan Siiz</h2>
       <div className="card-stats">
@@ -106,7 +106,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15421053/file/original-d9ec0bc85fcc2e3cafe961e6a7f1c8cd.png?resize=320x240&vertical=center"/>
+    <img src="img5.png"/>
     <div className="card-content">
       <h2 className="card-title">Paperpillar</h2>
       <div className="card-stats">
@@ -120,7 +120,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15419943/file/still-f5567bcd6842e7df644021e44376eee7.png?resize=320x240&vertical=center"/>
+    <img src="img5.png"/>
     <div className="card-content">
       <h2 className="card-title">Alfrey Davilla | vaneltia</h2>
       <div className="card-stats">
@@ -134,7 +134,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15391360/file/original-c3f1fc5228c551054116bfdc71756832.png?resize=320x240&vertical=center"/>
+    <img src="img6.png"/>
     <div className="card-content">
       <h2 className="card-title">A Studio-JQ A</h2>
       <div className="card-stats">
@@ -148,7 +148,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15417431/file/original-892cd21cb9f2c10d1b7f01747a92744d.png?crop=0x0-1600x1200&resize=320x240&vertical=center"/>
+    <img src="img7.png"/>
     <div className="card-content">
       <h2 className="card-title">Romain Trystram</h2>
       <div className="card-stats">
@@ -162,7 +162,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15422524/file/original-94dc61911c8791815968c6f701d15755.jpg?resize=320x240&vertical=center"/>
+    <img src="img8.png"/>
     <div className="card-content">
       <h2 className="card-title">inFullMobile</h2>
       <div className="card-stats">
@@ -176,7 +176,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15419391/file/original-c6b42157844710aa93283b969181780f.png?resize=320x240&vertical=center" />
+    <img src="img9.png" />
     <div className="card-content">
       <h2 className="card-title">FourPlus Studio</h2>
       <div className="card-stats">
@@ -190,7 +190,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15420101/file/original-49d945548d2e0f8f8eda83fad9f99113.png?resize=320x240&vertical=center"/>
+    <img src="img10.png"/>
     <div className="card-content">
       <h2 className="card-title">MUTI</h2>
       <div className="card-stats">
@@ -204,7 +204,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15417820/file/original-ec3016842f085f024f3769c55d8f878d.jpg?resize=320x240&vertical=center"/>
+    <img src="img11.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
@@ -218,7 +218,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15411410/file/original-805da8f55afce317055cd4b4701cbfdd.jpg?resize=320x240&vertical=center"/>
+    <img src="img12.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
@@ -232,7 +232,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15419381/file/original-2940eedfc6203770cdb38969c94a2034.jpg?resize=320x240&vertical=center"/>
+    <img src="img13.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
@@ -246,7 +246,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15420010/file/original-e5f40fc98d84c6af73fc7df2da88d1a0.png?resize=320x240&vertical=center"/>
+    <img src="img14.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
@@ -260,7 +260,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15412492/file/original-3581fa0c1d455273fb12340b0f16995a.png?resize=320x240&vertical=center"/>
+    <img src="img15.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
@@ -274,7 +274,7 @@ function App() {
     </div>
   </div>
   <div className="card">
-    <img src="https://cdn.dribbble.com/userupload/15422672/file/original-a5c3e07499564f9c3978f5ca2f7fe573.png?resize=320x240&vertical=center"/>
+    <img src="img16.png"/>
     <div className="card-content">
       <h2 className="card-title"></h2>
       <div className="card-stats">
